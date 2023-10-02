@@ -31,7 +31,7 @@ Symbol  : GGWP
 npx hardhat run scripts/deploy.js --network swisstronik
 ```
 Response :
-
+<img width="314" alt="image" src="https://github.com/giguan00/LW3_x_Swisstronik_CodeChallenge4/assets/100979392/e54b065b-988d-468a-b50b-ff9133522919">
 
 #### `Function Mint`
 
@@ -54,6 +54,9 @@ Hash
 ```
 0x74a43d2ae455b52440413b2a777e83fee0872ea541a19c01b96e34fae6648ff5
 ```
+<img width="772" alt="image" src="https://github.com/giguan00/LW3_x_Swisstronik_CodeChallenge4/assets/100979392/8b744b64-427b-491b-a60d-1e73234955e6">
+
+
 
 ### `Bonus Scripts`
 
@@ -68,6 +71,7 @@ npx hardhat run scripts/balanceOf.js --network swisstronik
 Response:
 Decoded response: 1n
 ```
+<img width="119" alt="image" src="https://github.com/giguan00/LW3_x_Swisstronik_CodeChallenge4/assets/100979392/4a9fc041-6499-434f-a1e1-96f0e4e9b2ea">
 
 ## Conclusion
 
